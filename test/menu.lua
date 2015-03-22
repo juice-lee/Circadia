@@ -1,4 +1,4 @@
-//MENU GOES HERE//
+--MENU GOES HERE
 menu_difficulties = {"shit","shittier","the worst"}
 
 function drawMenu()
