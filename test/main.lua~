@@ -5,5 +5,5 @@ end
 
 function love.draw()
    love.graphics.draw(image, imgx, imgy)
-   love.graphics.print("Click and drag the cake around or use the arrow keys", 10, 10)
+   love.graphics.print("move this shit", 10, 10)
 end
