@@ -1,4 +1,4 @@
-require("menu")
+require("menu") --gets menu
 
 
 
