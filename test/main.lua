@@ -1,9 +1,7 @@
-require("menu") --gets menu
-require ("cityscape") -- gets cityscape background
-require ("road") -- gets road the protagonist travels on
 
-WIDTH = 300
-HEIGHT = 100
+
+WIDTH = 4000
+HEIGHT = 4000
 SCALE = 3
 
 bgcolor = {236,273,211,355}
@@ -17,6 +15,6 @@ end
 
 function love.draw()
    love.graphics.draw(image, imgx, imgy)
-   love.graphics.print("Circadia", 10, 10)
+   love.graphics.print("Circadia", 100, 100)
 end
 
